@@ -1,0 +1,16 @@
+C:\Users\ATAKAN\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\bin\Debug\net5.0\OtoGaleriUygulaması.exe
+C:\Users\ATAKAN\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\bin\Debug\net5.0\OtoGaleriUygulaması.deps.json
+C:\Users\ATAKAN\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\bin\Debug\net5.0\OtoGaleriUygulaması.runtimeconfig.json
+C:\Users\ATAKAN\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\bin\Debug\net5.0\OtoGaleriUygulaması.runtimeconfig.dev.json
+C:\Users\ATAKAN\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\bin\Debug\net5.0\OtoGaleriUygulaması.dll
+C:\Users\ATAKAN\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\bin\Debug\net5.0\OtoGaleriUygulaması.pdb
+C:\Users\ATAKAN\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\net5.0\OtoGaleriUygulaması.csproj.AssemblyReference.cache
+C:\Users\ATAKAN\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\net5.0\OtoGaleriUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ATAKAN\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\net5.0\OtoGaleriUygulaması.AssemblyInfoInputs.cache
+C:\Users\ATAKAN\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\net5.0\OtoGaleriUygulaması.AssemblyInfo.cs
+C:\Users\ATAKAN\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\net5.0\OtoGaleriUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ATAKAN\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\net5.0\OtoGaleriUygulaması.dll
+C:\Users\ATAKAN\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\net5.0\refint\OtoGaleriUygulaması.dll
+C:\Users\ATAKAN\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\net5.0\OtoGaleriUygulaması.pdb
+C:\Users\ATAKAN\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\net5.0\OtoGaleriUygulaması.genruntimeconfig.cache
+C:\Users\ATAKAN\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\net5.0\ref\OtoGaleriUygulaması.dll
